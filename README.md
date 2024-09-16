@@ -3,7 +3,8 @@
 I mostly write code in Node.js, I love it for the ability to run the project on any platform. I also have experience in QA and vulnerability finding, which allows me to write my code more secure. My work is my hobby, I do my work with love.
 
 ## ✉️ Contact me
-— Write to me in Telegram [@iamhro](https://t.me/iamhro)<br>
+— Write to me in **Telegram** [@iamhro](https://t.me/iamhro)<br>
+— Write to me in **LinkedIn** [@hromadchuk](https://www.linkedin.com/in/hromadchuk)<br>
 — Write to me at [gromadchuk.pasha@gmail.com](mailto:gromadchuk.pasha@gmail.com)
 
 ## 🛠️ My skills
