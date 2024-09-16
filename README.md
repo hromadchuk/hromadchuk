@@ -48,6 +48,7 @@ An iOS app that analyzes the gallery and generates travel analytics. Written usi
 
 ### [V Kontakte LLC](https://www.linkedin.com/company/3275554/) 
 <h6>3 yrs 3 mos</h6>
+
 * **Back End Developer** — Aug 2021 - Mar 2022 · 8 mos
 * **Security Test Engineer** — Sep 2020 - Aug 2021 · 1 yr
 * **Middle QA Engineer** — Aug 2019 - Sep 2020 · 1 yr 2 mos
