@@ -42,6 +42,11 @@ An iOS app that analyzes the gallery and generates travel analytics. Written usi
 
 👨🏻‍💻 Source code: https://github.com/hromadchuk/gallery_analyse
 
+## Support
+If my projects or I have helped you in any way, you are always welcome to support me.
+
+<a href="https://www.buymeacoffee.com/wgiz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## My experience
 
 ### [Fornova](https://www.linkedin.com/company/603615/)
