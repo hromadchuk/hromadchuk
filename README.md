@@ -11,7 +11,7 @@ I mostly write code in Node.js, I love it for the ability to run the project on 
 <a href="https://nodejs.org/en/" target="_blank"><img src="./icons/nodejs.svg" width="40" /></a>
 <a href="https://typescriptlang.org/" target="_blank"><img src="./icons/typescript.svg" width="40" /></a>
 <a href="https://javascript.com/" target="_blank"><img src="./icons/javascript.svg" width="40" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="./icons/react.svg" width="40" /></a>
+<a href="https://react.dev/" target="_blank"><img src="./icons/react.svg" width="40" /></a>
 <a href="https://mongodb.com/" target="_blank"><img src="./icons/mongodb.svg" width="40" /></a>
 <a href="https://redis.io/" target="_blank"><img src="./icons/redis.svg" width="40" /></a>&nbsp;
 <a href="https://rabbitmq.com/" target="_blank"><img src="./icons/rabbitmq.svg" width="36" /></a>&nbsp;
